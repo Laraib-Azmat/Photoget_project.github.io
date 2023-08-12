@@ -58,3 +58,9 @@ input, .search-btn, .more-btn{
 .nav a:hover{
     text-decoration: underline;
 }
+.more-btn{
+    margin:0rem 0rem 2rem 2rem;
+}
+.more-btn:hover{
+    background-color: #9c4960;
+}
